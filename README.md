@@ -1,5 +1,5 @@
 # A-Better-Twitter
-##Just a CSS style for Twitter that removes some bullshit from the website.
+Just a CSS style for Twitter that removes some bullshit from the website.
 
 You can use it on Chrome by just draging the file in extensions screen or use the extension Stylus to install in your browser.
 
