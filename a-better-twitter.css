@@ -82,7 +82,7 @@ div.RelatedUsers.module
   .content-main
   {
     width: 100% !important;
-    margin: 0;
+    margin: 0 !important;
   }
 /*Largura do perfil*/
   .dashboard-left
